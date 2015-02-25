@@ -32,7 +32,7 @@ public class FactorialFunction implements MathFunction {
 		}
 		
 		//Function evaluation definition
-		if(number == 1){
+		if(number == 1 || number == 0){
 			return 1;
 		}
 		else {
