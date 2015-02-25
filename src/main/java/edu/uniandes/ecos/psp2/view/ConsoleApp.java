@@ -1,10 +1,10 @@
-package edu.uniandes.ecos.psp2;
+package edu.uniandes.ecos.psp2.view;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class ConsoleApp 
 {
     public static void main( String[] args )
     {

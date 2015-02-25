@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* edu/uniandes/ecos/psp11/view/App
+web:    java -cp target/classes:target/dependency/* edu/uniandes/ecos/psp2/view/WebApp
