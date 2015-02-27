@@ -57,7 +57,7 @@ public class WebController {
 		
 		String resultString = "<html>" +
 				"<body>" +
-				"<h1>PSP11 Relative Size Estimations Program!</h1>" +
+				"<h1>PSP2 T-Distribution integration using Simpson Rule Integration!</h1>" +
 				"<p>Results:</p>" +
 				"Degrees of Freedom:" + String.valueOf(degreesOfFreedom) + "<br/>" +
 				"From 0 to Xi:" + String.valueOf(xi) + "<br/>" +
