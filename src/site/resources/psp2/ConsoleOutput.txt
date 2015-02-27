@@ -1,0 +1,42 @@
+--- Simpson Rule Integration Calculator for T-Distribution ---
+NOTE: Please be sure all numbers you write are decimals or at least numbers. No letters!
+Please write the degrees of freedom of your calculation:
+9
+Please write the maximum Xi value:
+1.1
+Evaluating T-Distribution integration with Simpson Rule Integration...
+From 0 to Xi: 1.1
+Initial Segments: 10
+Allowed Error (E): 1.0E-4
+Degrees of Freedom : 9
+Area under the function (p) :0.35005863689720085
+
+============================
+
+--- Simpson Rule Integration Calculator for T-Distribution ---
+NOTE: Please be sure all numbers you write are decimals or at least numbers. No letters!
+Please write the degrees of freedom of your calculation:
+10
+Please write the maximum Xi value:
+1.1812
+Evaluating T-Distribution integration with Simpson Rule Integration...
+From 0 to Xi: 1.1812
+Initial Segments: 10
+Allowed Error (E): 1.0E-4
+Degrees of Freedom : 10
+Area under the function (p) :0.3675734051525516
+
+=============================
+
+--- Simpson Rule Integration Calculator for T-Distribution ---
+NOTE: Please be sure all numbers you write are decimals or at least numbers. No letters!
+Please write the degrees of freedom of your calculation:
+30
+Please write the maximum Xi value:
+2.750
+Evaluating T-Distribution integration with Simpson Rule Integration...
+From 0 to Xi: 2.75
+Initial Segments: 10
+Allowed Error (E): 1.0E-4
+Degrees of Freedom : 30
+Area under the function (p) :0.4949998582485174

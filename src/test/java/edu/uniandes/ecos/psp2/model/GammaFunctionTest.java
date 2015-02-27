@@ -22,7 +22,7 @@ public class GammaFunctionTest extends TestCase {
 	public void testGammaFunctionInteger(){
 		MathFunction gammaFunction = new GammaFunction();
 		try {
-			assertEquals(1, gammaFunction.evaluateFunction("1.0"), 0D);
+			assertEquals(1, gammaFunction.evaluateFunction("1"), 0D);
 			assertEquals(1, gammaFunction.evaluateFunction("2"), 0D);
 			assertEquals(2, gammaFunction.evaluateFunction("3"), 0D);
 			assertEquals(6, gammaFunction.evaluateFunction("4"), 0D);
